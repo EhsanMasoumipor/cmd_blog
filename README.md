@@ -14,6 +14,9 @@ As I continue to develop CMD_blog, I’ll explore more features and potentially 
 ## Getting Started
 To try out CMD_blog, clone the repository and run the app in your terminal. Instructions for setup and usage will be provided in the README file.
 
+`` npm run blog generate <quantity> `` to generate blog
+
+`` npm run start:dev `` to run server
 ---
 
 Stay tuned for updates, and feel free to contribute or provide feedback as I continue to build out this tool. 
